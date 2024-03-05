@@ -1,904 +1,273 @@
 {
   "log_events": [
   {
-    "id": "b79d5f7b-aa88-4e2d-b0aa-1464ce9e41e2",
-    "user_email": "Gunner74@hotmail.com",
-    "error_message": "Tamen claustrum veniam balbus sint molestiae stella saepe.",
-    "timestamp": 1684251596563,
-    "user_location_country": "RW",
-    "loading_wait_time_ms": 3843,
-    "error_category": "medium"
-  },
-  {
-    "id": "3772eaff-ac37-483e-8ac2-2555c8d2e8d0",
-    "user_email": "Marcellus.White55@yahoo.com",
-    "error_message": "Vulnero varius corporis alo xiphias ambulo ultra.",
-    "timestamp": 1700326909606,
-    "user_location_country": "HR",
-    "loading_wait_time_ms": 1464,
-    "error_category": "low"
-  },
-  {
-    "id": "a8f767ed-7c79-4dac-85c2-57ab58cb3732",
-    "user_email": "Barrett_Bednar@yahoo.com",
-    "error_message": "Thesaurus taceo explicabo aveho decor vae causa amiculum turbo tum.",
-    "timestamp": 1703378820689,
-    "user_location_country": "PS",
-    "loading_wait_time_ms": 873,
-    "error_category": "low"
-  },
-  {
-    "id": "91302749-df5e-4ca3-9a93-c7dd147bce27",
-    "user_email": "Taurean.Grant62@hotmail.com",
-    "error_message": "Velut adsuesco viscus aqua certus.",
-    "timestamp": 1707178427837,
-    "user_location_country": "DM",
-    "loading_wait_time_ms": 3739,
-    "error_category": "medium"
-  },
-  {
-    "id": "e7e3c57b-f7f1-4330-9370-71affb0aad0d",
-    "user_email": "Ova_Kunze@yahoo.com",
-    "error_message": "Curso carcer vobis vomica defero theologus.",
-    "timestamp": 1682135578989,
-    "user_location_country": "LT",
-    "loading_wait_time_ms": 4689,
-    "error_category": "high"
-  },
-  {
-    "id": "55c241fc-621a-4f1e-bca0-81404f48266d",
-    "user_email": "Mallory.Romaguera48@hotmail.com",
-    "error_message": "Vaco arbor vos atavus uterque asperiores illum vitiosus architecto articulus.",
-    "timestamp": 1697784630066,
-    "user_location_country": "MR",
-    "loading_wait_time_ms": 2588,
-    "error_category": "low"
-  },
-  {
-    "id": "da4b7e9a-6c72-4aa9-926b-5a534bf4ee7b",
-    "user_email": "Lukas.Nicolas95@gmail.com",
-    "error_message": "Sumptus callide aptus creptio versus curiositas conculco.",
-    "timestamp": 1707607975270,
-    "user_location_country": "MT",
-    "loading_wait_time_ms": 1267,
-    "error_category": "high"
-  },
-  {
-    "id": "a0d5809a-8d87-4770-b185-a317e9e197ff",
-    "user_email": "Bernardo30@yahoo.com",
-    "error_message": "Cubicularis demoror venustas pecco ab creo annus thymum.",
-    "timestamp": 1703678449443,
-    "user_location_country": "ZA",
-    "loading_wait_time_ms": 3671,
-    "error_category": "low"
-  },
-  {
-    "id": "f7715ecf-3db9-442a-bbcb-7a596a7e2eca",
-    "user_email": "Heidi40@hotmail.com",
-    "error_message": "Apparatus venia carpo.",
-    "timestamp": 1696012004960,
-    "user_location_country": "EH",
-    "loading_wait_time_ms": 4300,
-    "error_category": "high"
-  },
-  {
-    "id": "9d0bfd58-c139-4121-b28c-a331475c63b7",
-    "user_email": "Nikita43@yahoo.com",
-    "error_message": "Addo spoliatio crux cometes harum caterva amitto.",
-    "timestamp": 1684922018569,
-    "user_location_country": "AS",
-    "loading_wait_time_ms": 1824,
-    "error_category": "high"
-  },
-  {
-    "id": "1e60b977-308f-4036-b42c-de0ef1f0f79d",
-    "user_email": "Marian_Schiller@gmail.com",
-    "error_message": "Calcar clam pauci conservo spiritus substantia in pauper coerceo.",
-    "timestamp": 1689882653808,
-    "user_location_country": "BR",
-    "loading_wait_time_ms": 3991,
-    "error_category": "medium"
-  },
-  {
-    "id": "fb9b9d95-2ec6-48b3-9717-805fd4411245",
-    "user_email": "Myriam_Fahey@yahoo.com",
-    "error_message": "Venia vix patruus beatus aliquam.",
-    "timestamp": 1708513322161,
-    "user_location_country": "ZA",
-    "loading_wait_time_ms": 3488,
-    "error_category": "critical"
-  },
-  {
-    "id": "e760d4df-e5a5-4fea-b777-cf52c79a056d",
-    "user_email": "Citlalli_Hills-Howell@yahoo.com",
-    "error_message": "Tabgo distinctio thymum substantia cursus voco stultus annus turbo.",
-    "timestamp": 1688183327681,
-    "user_location_country": "AE",
-    "loading_wait_time_ms": 2610,
-    "error_category": "medium"
-  },
-  {
-    "id": "d1918a6d-1ad0-476f-a654-acc99bad9108",
-    "user_email": "Vidal77@yahoo.com",
-    "error_message": "Bestia cibo necessitatibus.",
-    "timestamp": 1690039992253,
-    "user_location_country": "CL",
-    "loading_wait_time_ms": 670,
-    "error_category": "medium"
-  },
-  {
-    "id": "087babf0-2e14-4a0f-a34f-3a55bfbbe55c",
-    "user_email": "Leta26@hotmail.com",
-    "error_message": "Sol angustus aestivus vetus candidus aggero tunc tribuo conitor doloremque.",
-    "timestamp": 1688182783312,
-    "user_location_country": "KI",
-    "loading_wait_time_ms": 1840,
-    "error_category": "critical"
-  },
-  {
-    "id": "4268bb76-77f3-4488-b81c-0fdd469ce54e",
-    "user_email": "Keon_Dooley-Graham@gmail.com",
-    "error_message": "Architecto ultra vomito terebro derelinquo enim.",
-    "timestamp": 1704097281413,
-    "user_location_country": "DK",
-    "loading_wait_time_ms": 989,
-    "error_category": "medium"
-  },
-  {
-    "id": "bfc56e0c-d6f7-4ab0-819e-9b9769c16ba4",
-    "user_email": "Mable.Gibson99@yahoo.com",
-    "error_message": "Constans ager vox delego cernuus capitulus dicta.",
-    "timestamp": 1684923697804,
-    "user_location_country": "NC",
-    "loading_wait_time_ms": 3508,
-    "error_category": "medium"
-  },
-  {
-    "id": "a53d1ee3-92f5-4887-b8aa-29669ea09d18",
-    "user_email": "Kimberly.Rosenbaum@hotmail.com",
-    "error_message": "Charisma vigor unus damno decor.",
-    "timestamp": 1704751218821,
-    "user_location_country": "NI",
-    "loading_wait_time_ms": 3044,
-    "error_category": "low"
-  },
-  {
-    "id": "468f8e1e-bd96-4cf5-bd33-881d09097d3d",
-    "user_email": "Alec29@gmail.com",
-    "error_message": "Ad vacuus suus spiculum.",
-    "timestamp": 1699424988529,
-    "user_location_country": "GW",
-    "loading_wait_time_ms": 4104,
-    "error_category": "high"
-  },
-  {
-    "id": "87c085ea-cb93-41dc-b633-4da0ec458575",
-    "user_email": "Margarett99@yahoo.com",
-    "error_message": "Aliquam thermae sodalitas degero pecto cavus vorago vis.",
-    "timestamp": 1700614944090,
-    "user_location_country": "HU",
-    "loading_wait_time_ms": 3193,
-    "error_category": "medium"
-  },
-  {
-    "id": "2f42473e-9284-4a30-8caf-c01d846fb3df",
-    "user_email": "Katelyn.Ferry@hotmail.com",
-    "error_message": "Acsi totus verus anser bos tumultus consequatur beatae deludo vere.",
-    "timestamp": 1682845403562,
-    "user_location_country": "CF",
-    "loading_wait_time_ms": 3243,
-    "error_category": "medium"
-  },
-  {
-    "id": "73ad01fd-ba38-4c12-a53d-49dd481089ba",
-    "user_email": "Marge25@hotmail.com",
-    "error_message": "Atavus addo deleo quasi suscipio accedo verbum commodi desparatus.",
-    "timestamp": 1678148410784,
-    "user_location_country": "PG",
-    "loading_wait_time_ms": 298,
-    "error_category": "medium"
-  },
-  {
-    "id": "3b472a7f-cd2d-454d-bf58-af6c3dcaa5b9",
-    "user_email": "Ayla.Schamberger@gmail.com",
-    "error_message": "Adamo solum reiciendis ustilo triumphus arguo conspergo neque acceptus cuius.",
-    "timestamp": 1703312357102,
-    "user_location_country": "HN",
-    "loading_wait_time_ms": 579,
-    "error_category": "medium"
-  },
-  {
-    "id": "9b47c205-d18a-4bf2-be08-e7af0f3d3e6e",
-    "user_email": "Mac_Connelly43@yahoo.com",
-    "error_message": "Aveho maiores atque decumbo.",
-    "timestamp": 1692493422932,
-    "user_location_country": "IQ",
-    "loading_wait_time_ms": 1693,
-    "error_category": "low"
-  },
-  {
-    "id": "74f0bfb8-2c5c-47fc-8671-4f93416466d5",
-    "user_email": "Marion_Hansen@yahoo.com",
-    "error_message": "Tergum tandem attonbitus.",
-    "timestamp": 1704945278093,
-    "user_location_country": "TW",
-    "loading_wait_time_ms": 1004,
-    "error_category": "medium"
-  },
-  {
-    "id": "195f6825-25dc-4e35-addb-77c16edaed34",
-    "user_email": "Tanner_Hackett@yahoo.com",
-    "error_message": "Valde tabula fugit.",
-    "timestamp": 1678193435179,
-    "user_location_country": "AQ",
-    "loading_wait_time_ms": 1887,
-    "error_category": "low"
-  },
-  {
-    "id": "6e92aa63-3b11-4797-8518-02fb6326d018",
-    "user_email": "Kolby_Prohaska29@yahoo.com",
-    "error_message": "Sollicito sopor tendo voluptate cognomen.",
-    "timestamp": 1683126125521,
-    "user_location_country": "SM",
-    "loading_wait_time_ms": 4678,
-    "error_category": "high"
-  },
-  {
-    "id": "553cd9df-7b8c-4419-95c9-0af3fea811d8",
-    "user_email": "Melisa97@hotmail.com",
-    "error_message": "Amplus video tendo.",
-    "timestamp": 1695599174892,
-    "user_location_country": "EG",
-    "loading_wait_time_ms": 1871,
-    "error_category": "low"
-  },
-  {
-    "id": "39c6021b-0d00-4e65-9c5a-3f9dfa8f0465",
-    "user_email": "Terence.Fadel50@gmail.com",
-    "error_message": "Tam carpo decens conqueror conturbo bos.",
-    "timestamp": 1683658160775,
-    "user_location_country": "KW",
-    "loading_wait_time_ms": 346,
-    "error_category": "high"
-  },
-  {
-    "id": "6766a688-a266-4cbb-9a6b-ec419a122972",
-    "user_email": "Cali50@gmail.com",
-    "error_message": "Adnuo patior curiositas comburo aegre dolorum vulariter trado.",
-    "timestamp": 1683600063687,
-    "user_location_country": "KE",
-    "loading_wait_time_ms": 1061,
-    "error_category": "medium"
-  },
-  {
-    "id": "c1d57a77-fb4b-4710-9320-5a3be5cdb82d",
-    "user_email": "Tremayne_Ward20@gmail.com",
-    "error_message": "Alias suscipit varius aufero.",
-    "timestamp": 1706528419398,
-    "user_location_country": "ID",
-    "loading_wait_time_ms": 3103,
-    "error_category": "high"
-  },
-  {
-    "id": "6b795884-44b2-4de0-b43b-1c05243739e3",
-    "user_email": "Ryann.Krajcik@yahoo.com",
-    "error_message": "Substantia utrum demitto textus vindico acervus.",
-    "timestamp": 1707377397629,
-    "user_location_country": "KP",
-    "loading_wait_time_ms": 1600,
-    "error_category": "critical"
-  },
-  {
-    "id": "03e5d2cb-1b8f-40f4-9f6a-404d168f11e5",
-    "user_email": "Rosalia_Raynor26@gmail.com",
-    "error_message": "Statim talio via soleo adopto vomito earum.",
-    "timestamp": 1683229489792,
-    "user_location_country": "CI",
-    "loading_wait_time_ms": 4273,
-    "error_category": "low"
-  },
-  {
-    "id": "4ddeacb6-bb0f-4925-b1ee-812993c56a1c",
-    "user_email": "Travon_Crona56@yahoo.com",
-    "error_message": "Universe ter cunae conatus cibo.",
-    "timestamp": 1701986038220,
-    "user_location_country": "KI",
-    "loading_wait_time_ms": 2115,
-    "error_category": "medium"
-  },
-  {
-    "id": "f8376ca0-e010-44ef-a512-ba992011521c",
-    "user_email": "Isabella3@yahoo.com",
-    "error_message": "Argentum uterque necessitatibus crebro repellat aufero curiositas.",
-    "timestamp": 1707619507006,
-    "user_location_country": "GP",
-    "loading_wait_time_ms": 2754,
-    "error_category": "high"
-  },
-  {
-    "id": "83e961e4-ddec-45d5-9e09-4bc5e2616815",
-    "user_email": "Emil_Jacobs2@hotmail.com",
-    "error_message": "Vix spiritus cupiditate armarium cinis.",
-    "timestamp": 1686671557475,
-    "user_location_country": "NU",
-    "loading_wait_time_ms": 236,
-    "error_category": "critical"
-  },
-  {
-    "id": "bec6978c-e5be-4529-b6ad-1466726b9b04",
-    "user_email": "Amira16@gmail.com",
-    "error_message": "Voveo addo adnuo carmen autem usitas.",
-    "timestamp": 1693931077499,
-    "user_location_country": "LA",
-    "loading_wait_time_ms": 4207,
-    "error_category": "critical"
-  },
-  {
-    "id": "da0b5d33-109f-40f3-a06d-6447c63d90ee",
-    "user_email": "Liliana.Herman71@hotmail.com",
-    "error_message": "Vaco terga cattus.",
-    "timestamp": 1696788600203,
-    "user_location_country": "OM",
-    "loading_wait_time_ms": 3977,
-    "error_category": "high"
-  },
-  {
-    "id": "2d635981-aa81-41e0-862c-847e08ea462b",
-    "user_email": "Susanna_Durgan@hotmail.com",
-    "error_message": "Debitis curso sumptus pax vulgo usitas carcer avarus pecus.",
-    "timestamp": 1698071392827,
-    "user_location_country": "MO",
-    "loading_wait_time_ms": 4449,
-    "error_category": "critical"
-  },
-  {
-    "id": "40255384-c7a7-4fba-8a9d-2efdea823f6d",
-    "user_email": "Oral18@hotmail.com",
-    "error_message": "Cribro cupressus amor terga vociferor culpa valetudo ulterius auctus.",
-    "timestamp": 1704598080408,
-    "user_location_country": "BA",
-    "loading_wait_time_ms": 2463,
-    "error_category": "high"
-  },
-  {
-    "id": "cf3bd25f-4899-405a-8e55-e19aef6f1af9",
-    "user_email": "Krista.Nolan24@gmail.com",
-    "error_message": "Utrimque utrum temeritas carus combibo amo.",
-    "timestamp": 1706956239982,
-    "user_location_country": "GR",
-    "loading_wait_time_ms": 4864,
-    "error_category": "critical"
-  },
-  {
-    "id": "5dcf1436-0ca8-48cc-881f-06f013f7877a",
-    "user_email": "Trace_Barton@gmail.com",
-    "error_message": "Dolorem administratio audeo vulpes cubitum comparo curto.",
-    "timestamp": 1697522766493,
-    "user_location_country": "AW",
-    "loading_wait_time_ms": 3120,
-    "error_category": "high"
-  },
-  {
-    "id": "36e2ccea-8963-404a-ba50-185ec0199fd3",
-    "user_email": "Germaine86@gmail.com",
-    "error_message": "Quae uxor constans deleniti comprehendo sequi theatrum coepi necessitatibus tredecim.",
-    "timestamp": 1709588159370,
-    "user_location_country": "MG",
-    "loading_wait_time_ms": 4971,
-    "error_category": "high"
-  },
-  {
-    "id": "42243744-a4d7-4926-af81-ebebe8af046c",
-    "user_email": "Anais32@hotmail.com",
-    "error_message": "Degenero aveho tabernus thermae iusto trepide tempore culpo.",
-    "timestamp": 1702886671908,
-    "user_location_country": "MR",
-    "loading_wait_time_ms": 1323,
-    "error_category": "high"
-  },
-  {
-    "id": "2910a164-e7ba-49e4-bfb2-70025ee2d580",
-    "user_email": "Patricia22@gmail.com",
-    "error_message": "Deorsum minima creta optio turbo cresco confido adopto textus arbor.",
-    "timestamp": 1700865977305,
-    "user_location_country": "MW",
-    "loading_wait_time_ms": 3448,
-    "error_category": "high"
-  },
-  {
-    "id": "623c03e3-9206-466a-9c13-219056399485",
-    "user_email": "Pattie_Padberg45@yahoo.com",
-    "error_message": "Illum spes valde tyrannus barba demergo solus testimonium laboriosam.",
-    "timestamp": 1701361361127,
-    "user_location_country": "BA",
-    "loading_wait_time_ms": 1244,
-    "error_category": "high"
-  },
-  {
-    "id": "c8fbde56-a00f-4492-9699-dc6afdcd3a85",
-    "user_email": "Santino_VonRueden@hotmail.com",
-    "error_message": "Speciosus cetera custodia bardus audax deporto libero adhuc suppono.",
-    "timestamp": 1696546272872,
-    "user_location_country": "BL",
-    "loading_wait_time_ms": 3524,
-    "error_category": "high"
-  },
-  {
-    "id": "5cb30d31-2243-43d9-836c-9bf9d42466dc",
-    "user_email": "Rosina49@gmail.com",
-    "error_message": "Aureus tertius tenetur tamdiu supplanto viriliter pariatur.",
-    "timestamp": 1708935967705,
-    "user_location_country": "HN",
-    "loading_wait_time_ms": 2883,
-    "error_category": "medium"
-  },
-  {
-    "id": "9dd56aff-621a-4aee-bd3d-2c7304484f01",
-    "user_email": "Jana.Hansen77@hotmail.com",
-    "error_message": "Cunae damnatio ambulo vacuus pariatur.",
-    "timestamp": 1685270432197,
-    "user_location_country": "PY",
-    "loading_wait_time_ms": 3185,
-    "error_category": "medium"
-  },
-  {
-    "id": "9364dd68-1931-4af5-9864-8ae11f499c23",
-    "user_email": "Sandra68@hotmail.com",
-    "error_message": "Cursus nulla vesica cunctatio conscendo.",
-    "timestamp": 1687871203480,
-    "user_location_country": "LK",
-    "loading_wait_time_ms": 2520,
-    "error_category": "medium"
-  },
-  {
-    "id": "b1edc3bf-72dd-4da9-b182-90c8cb3e8dff",
-    "user_email": "Tad_Mueller@gmail.com",
-    "error_message": "Vindico crastinus claudeo.",
-    "timestamp": 1704060047315,
-    "user_location_country": "SK",
-    "loading_wait_time_ms": 4092,
-    "error_category": "medium"
-  },
-  {
-    "id": "e87baff2-bcee-4aa6-9587-351845c4f089",
-    "user_email": "Melyssa_Franecki@yahoo.com",
-    "error_message": "Cohaero cavus tabesco adopto colligo cunabula talio deduco necessitatibus.",
-    "timestamp": 1708326098178,
-    "user_location_country": "CA",
-    "loading_wait_time_ms": 3207,
-    "error_category": "critical"
-  },
-  {
-    "id": "6e090609-f7e6-4ee7-96c8-789fd1d43ecc",
-    "user_email": "Baby.Rutherford91@yahoo.com",
-    "error_message": "Conculco vita cenaculum commemoro volaticus traho.",
-    "timestamp": 1691060352934,
-    "user_location_country": "ST",
-    "loading_wait_time_ms": 2496,
-    "error_category": "critical"
-  },
-  {
-    "id": "afe7806c-0a4c-4f61-8883-3f2f669dbd37",
-    "user_email": "Gregoria31@yahoo.com",
-    "error_message": "Decens curto defaeco atque deludo cernuus copiose.",
-    "timestamp": 1687048038589,
-    "user_location_country": "BG",
-    "loading_wait_time_ms": 422,
-    "error_category": "high"
-  },
-  {
-    "id": "18995bf7-7551-419b-b053-0df5e597560c",
-    "user_email": "Shayna.Rempel52@hotmail.com",
-    "error_message": "Capio vomito video adsuesco aequitas spiculum cupio adulescens reiciendis tandem.",
-    "timestamp": 1701781662384,
-    "user_location_country": "MF",
-    "loading_wait_time_ms": 4362,
-    "error_category": "medium"
-  },
-  {
-    "id": "7c917999-51d4-4d07-b257-eceff72ce6e8",
-    "user_email": "Luis_Runolfsson42@hotmail.com",
-    "error_message": "Adfectus articulus verto aequus concedo tempora vita nostrum basium.",
-    "timestamp": 1695389007564,
-    "user_location_country": "GW",
-    "loading_wait_time_ms": 3090,
-    "error_category": "medium"
-  },
-  {
-    "id": "010fa3fd-d9bb-4fe3-bc0f-5f29fa7bacec",
-    "user_email": "Brice83@yahoo.com",
-    "error_message": "Tenuis coepi carcer conscendo tenuis coniecto atqui nostrum sodalitas utpote.",
-    "timestamp": 1705408376656,
-    "user_location_country": "MD",
-    "loading_wait_time_ms": 741,
-    "error_category": "medium"
-  },
-  {
-    "id": "d03fc5cc-c876-4e72-9e41-68ca129b8305",
-    "user_email": "Rosemary77@yahoo.com",
-    "error_message": "Absconditus super aspicio pauper libero asperiores vobis ultio umquam.",
-    "timestamp": 1680683357567,
-    "user_location_country": "GG",
-    "loading_wait_time_ms": 4394,
-    "error_category": "low"
-  },
-  {
-    "id": "783a69e8-ed9d-4f8e-be2b-2b53602a1d38",
-    "user_email": "Conrad98@gmail.com",
-    "error_message": "Civis sumptus tertius.",
-    "timestamp": 1681037180138,
-    "user_location_country": "NI",
-    "loading_wait_time_ms": 1055,
-    "error_category": "critical"
-  },
-  {
-    "id": "2869746e-675e-4402-9b3d-f82ac3d9dfec",
-    "user_email": "Kirstin_Johnston@gmail.com",
-    "error_message": "Trado vilitas acquiro depraedor articulus dicta valde solium strues.",
-    "timestamp": 1682387547440,
-    "user_location_country": "MH",
-    "loading_wait_time_ms": 3625,
-    "error_category": "critical"
-  },
-  {
-    "id": "3857571a-e18e-48cb-b5dc-1e5e9ca14471",
-    "user_email": "Tatum_Borer-Skiles@gmail.com",
-    "error_message": "Coniecto creta laboriosam corrumpo adsuesco considero ulciscor ter verbum circumvenio.",
-    "timestamp": 1708412525000,
-    "user_location_country": "VC",
-    "loading_wait_time_ms": 3727,
-    "error_category": "critical"
-  },
-  {
-    "id": "c19f69b2-63c6-4f84-92fd-795cc691038e",
-    "user_email": "Glenna_Bruen20@hotmail.com",
-    "error_message": "Cubicularis pectus vinum.",
-    "timestamp": 1692308693820,
-    "user_location_country": "AD",
-    "loading_wait_time_ms": 2028,
-    "error_category": "high"
-  },
-  {
-    "id": "78e8163e-5864-4980-90f2-e16185efa5e3",
-    "user_email": "Karl24@gmail.com",
-    "error_message": "Tam viduo catena itaque.",
-    "timestamp": 1702560039743,
-    "user_location_country": "BR",
-    "loading_wait_time_ms": 3691,
-    "error_category": "critical"
-  },
-  {
-    "id": "7b00d094-086c-4892-b282-c52c717c9657",
-    "user_email": "Aliza82@yahoo.com",
-    "error_message": "Sperno altus peccatus.",
-    "timestamp": 1702552034920,
-    "user_location_country": "CL",
-    "loading_wait_time_ms": 2465,
-    "error_category": "low"
-  },
-  {
-    "id": "1b5f6947-9b9a-42c6-b302-aba760bc5867",
-    "user_email": "Aimee.Schinner@hotmail.com",
-    "error_message": "Cultellus aspernatur pectus constans voluptatum adulescens censura viduo desipio.",
-    "timestamp": 1697198893298,
-    "user_location_country": "DJ",
-    "loading_wait_time_ms": 1863,
-    "error_category": "low"
-  },
-  {
-    "id": "b1f7d32b-84d5-477c-9701-39c9fa89b812",
-    "user_email": "Ashtyn.Kilback90@gmail.com",
-    "error_message": "Absorbeo depromo harum adulatio demergo vinco tergiversatio fugiat deprimo contra.",
-    "timestamp": 1685063377278,
-    "user_location_country": "OM",
-    "loading_wait_time_ms": 502,
-    "error_category": "critical"
-  },
-  {
-    "id": "1ef96e21-a48c-4400-a86b-f0b8d7bc5b32",
-    "user_email": "Ellis_Grimes78@gmail.com",
-    "error_message": "Communis constans aliqua.",
-    "timestamp": 1705368663793,
-    "user_location_country": "UM",
-    "loading_wait_time_ms": 2535,
-    "error_category": "medium"
-  },
-  {
-    "id": "b14279a8-2031-43fa-b97f-8fab5b6ad3c1",
-    "user_email": "Percival84@hotmail.com",
-    "error_message": "Virga volup supra volutabrum vere tutis colligo natus sonitus.",
-    "timestamp": 1700029835725,
-    "user_location_country": "TV",
-    "loading_wait_time_ms": 4802,
-    "error_category": "high"
-  },
-  {
-    "id": "90941e7c-9c3c-4e6a-bdba-03b35b1404e2",
-    "user_email": "Sigurd_Yost@hotmail.com",
-    "error_message": "Vespillo supellex sophismata adnuo veniam adicio atque hic suus.",
-    "timestamp": 1678780281798,
-    "user_location_country": "YE",
-    "loading_wait_time_ms": 1771,
-    "error_category": "medium"
-  },
-  {
-    "id": "0c01434f-8615-4895-b7d1-967e44177e8c",
-    "user_email": "Stephania.Renner7@gmail.com",
-    "error_message": "Vociferor bellum vindico acsi carmen apto autus arcesso caritas vulticulus.",
-    "timestamp": 1688842442718,
-    "user_location_country": "TG",
-    "loading_wait_time_ms": 4671,
-    "error_category": "low"
-  },
-  {
-    "id": "1b2a0e82-14e1-4e1d-b33d-0e44dda4d288",
-    "user_email": "Leopoldo_Corkery@gmail.com",
-    "error_message": "Tergo ater amplitudo doloribus varietas dolore vero ulterius cubitum.",
-    "timestamp": 1686214072357,
-    "user_location_country": "LC",
-    "loading_wait_time_ms": 1293,
-    "error_category": "critical"
-  },
-  {
-    "id": "b28272d0-6c17-47f9-9b52-2a7da72d6398",
-    "user_email": "Josephine48@gmail.com",
-    "error_message": "Aperio totam trucido comprehendo.",
-    "timestamp": 1701778680069,
-    "user_location_country": "ER",
-    "loading_wait_time_ms": 130,
-    "error_category": "critical"
-  },
-  {
-    "id": "80c1ef79-ad60-4a83-9868-b038ae37b5aa",
-    "user_email": "Brenna45@yahoo.com",
-    "error_message": "Crudelis aestivus casso aggredior clementia venio.",
-    "timestamp": 1680835814628,
-    "user_location_country": "VA",
-    "loading_wait_time_ms": 4261,
-    "error_category": "low"
-  },
-  {
-    "id": "1e31d589-b9d1-4264-8e5d-fc7fa533ad7c",
-    "user_email": "Nickolas_Harris@hotmail.com",
-    "error_message": "Temperantia tactus vitium infit ademptio terra tutis timor tergiversatio.",
-    "timestamp": 1697480302387,
-    "user_location_country": "CZ",
-    "loading_wait_time_ms": 482,
-    "error_category": "critical"
-  },
-  {
-    "id": "0986a482-e2fa-42a0-a156-904642af50d6",
-    "user_email": "Jedidiah_Rippin@gmail.com",
-    "error_message": "Amoveo aptus aufero voro antea cilicium conservo decens voluptate architecto.",
-    "timestamp": 1689358182790,
-    "user_location_country": "GI",
-    "loading_wait_time_ms": 1866,
-    "error_category": "low"
-  },
-  {
-    "id": "64bd16a9-1fd2-44a5-853d-19e5f4706e4d",
-    "user_email": "Allie_Abshire-Greenfelder@yahoo.com",
-    "error_message": "Combibo alo teneo comes quo reiciendis casso tibi sponte cotidie.",
-    "timestamp": 1695818530445,
-    "user_location_country": "DM",
-    "loading_wait_time_ms": 4404,
-    "error_category": "medium"
-  },
-  {
-    "id": "21d79e4d-1102-42a2-830c-4cb8f5ccf214",
-    "user_email": "Hector_Gerhold19@yahoo.com",
-    "error_message": "Turba damnatio tersus templum suggero tabernus claudeo vorax crinis cupiditas.",
-    "timestamp": 1693388341638,
-    "user_location_country": "SD",
-    "loading_wait_time_ms": 4662,
-    "error_category": "high"
-  },
-  {
-    "id": "a53866ba-4a0c-4190-9178-df0c3011f264",
-    "user_email": "Hulda92@yahoo.com",
-    "error_message": "Placeat vir colo coepi tametsi.",
-    "timestamp": 1682890215173,
-    "user_location_country": "TV",
-    "loading_wait_time_ms": 3243,
-    "error_category": "high"
-  },
-  {
-    "id": "8be14c29-c8bd-4fe0-bef0-d1375b662638",
-    "user_email": "Jasen_Gusikowski96@yahoo.com",
-    "error_message": "Votum assumenda necessitatibus cicuta ipsam deludo vulgus surgo coruscus alii.",
-    "timestamp": 1695128367113,
-    "user_location_country": "SN",
-    "loading_wait_time_ms": 1808,
-    "error_category": "high"
-  },
-  {
-    "id": "b16e35d7-751c-4af1-adae-17d726846268",
-    "user_email": "Lucienne_Johnston@hotmail.com",
-    "error_message": "Congregatio neque cras tantillus demulceo ustulo adversus autem aequus.",
-    "timestamp": 1705528618250,
-    "user_location_country": "BR",
-    "loading_wait_time_ms": 3572,
-    "error_category": "medium"
-  },
-  {
-    "id": "7fcfc7a2-0515-479e-9add-3229339811ed",
-    "user_email": "Kristian.Gutmann@yahoo.com",
-    "error_message": "Coerceo aspicio amplus sponte terreo autem pel laborum confero.",
-    "timestamp": 1708029750165,
-    "user_location_country": "IS",
-    "loading_wait_time_ms": 1492,
-    "error_category": "medium"
-  },
-  {
-    "id": "d7b0db92-93ab-4af3-ac16-9a38ca76d626",
-    "user_email": "Aurelio_Champlin@hotmail.com",
-    "error_message": "Sodalitas triumphus amicitia at eaque venia calcar corroboro utor decet.",
-    "timestamp": 1685007742544,
-    "user_location_country": "CZ",
-    "loading_wait_time_ms": 4025,
-    "error_category": "low"
-  },
-  {
-    "id": "0a93d0fe-d7ee-4c73-ad89-9578a8470069",
-    "user_email": "Aletha.Gleichner@hotmail.com",
-    "error_message": "Magnam celebrer ascit corrupti.",
-    "timestamp": 1678943379092,
-    "user_location_country": "PA",
-    "loading_wait_time_ms": 2667,
-    "error_category": "high"
-  },
-  {
-    "id": "61ca2850-422f-40c2-8c32-17cee6beeaa4",
-    "user_email": "Mariah21@gmail.com",
-    "error_message": "Calamitas cernuus sophismata laudantium.",
-    "timestamp": 1707387796815,
-    "user_location_country": "MZ",
-    "loading_wait_time_ms": 3363,
-    "error_category": "critical"
-  },
-  {
-    "id": "237950ed-87b0-4cad-ad16-196310b252f8",
-    "user_email": "Trenton7@gmail.com",
-    "error_message": "Decipio adversus vel coniecto defetiscor tactus vindico acquiro curriculum suus.",
-    "timestamp": 1708727471313,
-    "user_location_country": "BW",
-    "loading_wait_time_ms": 3144,
-    "error_category": "critical"
-  },
-  {
-    "id": "1eb6d94f-705b-4624-bce9-21f116fe1c93",
-    "user_email": "Camryn7@yahoo.com",
-    "error_message": "Caritas nesciunt arcus suppono cohaero.",
-    "timestamp": 1685799364514,
-    "user_location_country": "BT",
-    "loading_wait_time_ms": 1357,
-    "error_category": "medium"
-  },
-  {
-    "id": "6b2f9b4a-c67f-4019-b745-40771f452de9",
-    "user_email": "Hanna.Doyle30@yahoo.com",
-    "error_message": "Dens alveus ventus depono argentum carcer acervus rem volutabrum adsum.",
-    "timestamp": 1692640630750,
-    "user_location_country": "BY",
-    "loading_wait_time_ms": 2322,
-    "error_category": "high"
-  },
-  {
-    "id": "cb22dbfc-d674-4966-8a58-816c8ca5f741",
-    "user_email": "Lavinia.Hudson78@yahoo.com",
-    "error_message": "Abscido adulescens vallum sui capillus abscido videlicet aequitas vulgo.",
-    "timestamp": 1683025495006,
-    "user_location_country": "GD",
-    "loading_wait_time_ms": 4212,
-    "error_category": "low"
-  },
-  {
-    "id": "3f3975a9-8896-4cea-a8f9-837f69068653",
-    "user_email": "Edna82@yahoo.com",
-    "error_message": "Stabilis conforto audacia deripio ubi cavus corroboro tandem.",
-    "timestamp": 1698224627936,
-    "user_location_country": "BD",
-    "loading_wait_time_ms": 2671,
-    "error_category": "medium"
-  },
-  {
-    "id": "1f499d78-0f65-4b0a-9136-6c7bc9b14a7e",
-    "user_email": "Mark2@gmail.com",
-    "error_message": "Aggero vallum conor quidem ipsum temeritas cavus adeptio aestivus.",
-    "timestamp": 1699098142940,
-    "user_location_country": "TG",
-    "loading_wait_time_ms": 480,
-    "error_category": "low"
-  },
-  {
-    "id": "ad4a0479-0de8-4f18-9c23-a8d876aaba10",
-    "user_email": "Waylon.Will@hotmail.com",
-    "error_message": "Ullus vinum balbus.",
-    "timestamp": 1692929476348,
-    "user_location_country": "PN",
-    "loading_wait_time_ms": 1828,
-    "error_category": "medium"
-  },
-  {
-    "id": "10b981fb-b3cb-46dc-95cd-154d2d1bbcac",
-    "user_email": "Dario54@gmail.com",
-    "error_message": "Acervus dicta quae celer deporto curto admitto cursim verumtamen.",
-    "timestamp": 1686155206792,
-    "user_location_country": "MS",
-    "loading_wait_time_ms": 968,
-    "error_category": "high"
-  },
-  {
-    "id": "44a46fd6-bbde-4754-9d86-154d6cecd5c2",
-    "user_email": "Arvid60@gmail.com",
-    "error_message": "Spiculum unus aqua vesco adamo confido.",
-    "timestamp": 1689193101599,
-    "user_location_country": "TN",
-    "loading_wait_time_ms": 4423,
-    "error_category": "medium"
-  },
-  {
-    "id": "73e27e00-588c-45a8-a76d-620f8f08c11a",
-    "user_email": "Randi.Cronin-Reynolds@hotmail.com",
-    "error_message": "Statim acervus vacuus cuppedia spoliatio campana.",
-    "timestamp": 1688521538665,
-    "user_location_country": "BM",
-    "loading_wait_time_ms": 1207,
-    "error_category": "low"
-  },
-  {
-    "id": "2820cae3-596d-469c-9d5a-e15401f4950c",
-    "user_email": "Gail.Runolfsson@hotmail.com",
-    "error_message": "Vel delectatio speciosus accusantium alo.",
-    "timestamp": 1681524507462,
-    "user_location_country": "BI",
-    "loading_wait_time_ms": 4872,
-    "error_category": "critical"
-  },
-  {
-    "id": "e5470017-5f0b-41a3-a1b0-540bf19f3df9",
-    "user_email": "Demetris41@hotmail.com",
-    "error_message": "Unde vae adulatio tabella ad.",
-    "timestamp": 1693015854569,
-    "user_location_country": "BN",
-    "loading_wait_time_ms": 758,
-    "error_category": "medium"
-  },
-  {
-    "id": "2d16c8aa-449f-412a-aebd-0e762d7a4c7f",
-    "user_email": "Freeda_Larkin31@gmail.com",
-    "error_message": "Totam crudelis suggero balbus angustus.",
-    "timestamp": 1701253863884,
-    "user_location_country": "IT",
-    "loading_wait_time_ms": 3879,
-    "error_category": "low"
-  },
-  {
-    "id": "4777f05c-ce73-4427-9385-25c976fa7e4b",
-    "user_email": "Jada46@gmail.com",
-    "error_message": "Adeptio coniuratio arx cultellus abstergo suffoco vulpes calamitas.",
-    "timestamp": 1696134506790,
-    "user_location_country": "VC",
-    "loading_wait_time_ms": 1908,
-    "error_category": "low"
-  },
-  {
-    "id": "36627157-5eb4-45ec-a94f-3acc1dbac15f",
-    "user_email": "Glennie.Schimmel13@gmail.com",
-    "error_message": "Temporibus talus vehemens.",
-    "timestamp": 1709212058764,
-    "user_location_country": "GU",
-    "loading_wait_time_ms": 4963,
-    "error_category": "critical"
-  },
-  {
-    "id": "b3296a7a-de2c-4204-8666-e62e7db702cd",
-    "user_email": "Valentina50@hotmail.com",
-    "error_message": "Decens inflammatio quae.",
-    "timestamp": 1694261216900,
+    "id": "8536a57d-cf67-46d7-a177-944de4962dd6",
+    "user_email": "Josue48@hotmail.com",
+    "error_message": "Vulgaris arcus carpo angelus cornu clementia.",
+    "timestamp": 1682748212073,
     "user_location_country": "AL",
-    "loading_wait_time_ms": 2829,
+    "loading_wait_time_ms": 3252,
     "error_category": "high"
+  },
+  {
+    "id": "a11635c4-85c6-4569-aab6-1b781b51f363",
+    "user_email": "Marcellus.Olson@hotmail.com",
+    "error_message": "Tepidus vociferor adstringo.",
+    "timestamp": 1682292375591,
+    "user_location_country": "GD",
+    "loading_wait_time_ms": 3156,
+    "error_category": "critical"
+  },
+  {
+    "id": "23f846c7-6d37-487e-9299-26834f254908",
+    "user_email": "Price16@hotmail.com",
+    "error_message": "Sperno circumvenio villa abbas thermae a defendo clibanus cariosus venustas.",
+    "timestamp": 1683054561702,
+    "user_location_country": "AU",
+    "loading_wait_time_ms": 1408,
+    "error_category": "medium"
+  },
+  {
+    "id": "daffade3-c9c4-4009-bc54-3b5e08094659",
+    "user_email": "Diego_Gottlieb3@gmail.com",
+    "error_message": "Agnitio contigo vespillo.",
+    "timestamp": 1685945945831,
+    "user_location_country": "TW",
+    "loading_wait_time_ms": 3794,
+    "error_category": "medium"
+  },
+  {
+    "id": "1eb501b0-ea9c-413e-bda2-44800c730f47",
+    "user_email": "Breana47@hotmail.com",
+    "error_message": "Dapifer decens corporis trado hic trucido curvo deserunt deduco.",
+    "timestamp": 1708626335589,
+    "user_location_country": "NP",
+    "loading_wait_time_ms": 130,
+    "error_category": "medium"
+  },
+  {
+    "id": "2fda73dd-c33b-44e1-935a-3e8293300a6f",
+    "user_email": "Kimberly_Doyle@hotmail.com",
+    "error_message": "Sed adsidue vorago tricesimus.",
+    "timestamp": 1705573822094,
+    "user_location_country": "PR",
+    "loading_wait_time_ms": 2665,
+    "error_category": "high"
+  },
+  {
+    "id": "7d85fb46-8339-4d57-bdce-dbbe88d602f5",
+    "user_email": "Jarrell_Schmeler22@yahoo.com",
+    "error_message": "Blanditiis id vigor cubo amplitudo tamdiu antiquus valeo triduana.",
+    "timestamp": 1701067154616,
+    "user_location_country": "UY",
+    "loading_wait_time_ms": 2427,
+    "error_category": "high"
+  },
+  {
+    "id": "2eba9483-ce91-402e-b4f7-3588c25998c1",
+    "user_email": "Kayleigh70@yahoo.com",
+    "error_message": "Infit carus rerum voluptatem.",
+    "timestamp": 1708096282280,
+    "user_location_country": "GI",
+    "loading_wait_time_ms": 4741,
+    "error_category": "medium"
+  },
+  {
+    "id": "ada36c26-c437-4b2e-8613-bbb05016aa93",
+    "user_email": "Tito.Weissnat36@hotmail.com",
+    "error_message": "Curvo cunctatio cohibeo vado altus dolore sto atrox cattus.",
+    "timestamp": 1687570912450,
+    "user_location_country": "SX",
+    "loading_wait_time_ms": 914,
+    "error_category": "medium"
+  },
+  {
+    "id": "7d20a6c8-d453-4939-891e-26660dd98de9",
+    "user_email": "Taryn_Erdman68@hotmail.com",
+    "error_message": "Cena trans confugo creber crinis sed cauda cervus patrocinor cena.",
+    "timestamp": 1691986350706,
+    "user_location_country": "IR",
+    "loading_wait_time_ms": 4349,
+    "error_category": "critical"
+  },
+  {
+    "id": "a27e2933-f514-4756-8444-2ee507764aee",
+    "user_email": "Willow82@hotmail.com",
+    "error_message": "Minima curiositas amplus bos.",
+    "timestamp": 1680003038951,
+    "user_location_country": "AW",
+    "loading_wait_time_ms": 3246,
+    "error_category": "low"
+  },
+  {
+    "id": "326e534e-4413-4e2c-89db-bad46d8cc663",
+    "user_email": "Terence0@gmail.com",
+    "error_message": "Adamo bonus subiungo minima cum deorsum.",
+    "timestamp": 1681308712655,
+    "user_location_country": "SC",
+    "loading_wait_time_ms": 3493,
+    "error_category": "medium"
+  },
+  {
+    "id": "59ec634a-6a2f-43d1-9d28-e07b33442d71",
+    "user_email": "Gilda_Langosh39@hotmail.com",
+    "error_message": "Patruus molestiae commodi amet anser accusator.",
+    "timestamp": 1703918557279,
+    "user_location_country": "MP",
+    "loading_wait_time_ms": 2563,
+    "error_category": "critical"
+  },
+  {
+    "id": "4b6028bd-a9f4-4154-8c8f-e8aba0e63775",
+    "user_email": "Clair_Jakubowski78@yahoo.com",
+    "error_message": "Volo quae patruus capto deinde expedita.",
+    "timestamp": 1682093792871,
+    "user_location_country": "DM",
+    "loading_wait_time_ms": 3256,
+    "error_category": "low"
+  },
+  {
+    "id": "16a5d53d-5394-4421-8842-24aa245cb412",
+    "user_email": "Stephan.Lueilwitz16@gmail.com",
+    "error_message": "Vilis voluntarius aequitas amicitia totidem deprecator celer demoror tabula absque.",
+    "timestamp": 1708158145559,
+    "user_location_country": "MK",
+    "loading_wait_time_ms": 1882,
+    "error_category": "critical"
+  },
+  {
+    "id": "0a1f3924-1aff-44d3-aded-7b5f1dc96031",
+    "user_email": "Adrien94@gmail.com",
+    "error_message": "Timidus verecundia benigne apto.",
+    "timestamp": 1700885812974,
+    "user_location_country": "GD",
+    "loading_wait_time_ms": 3614,
+    "error_category": "critical"
+  },
+  {
+    "id": "aa394341-547e-4a77-82b2-7ff45e9f7001",
+    "user_email": "Larry.Smith@hotmail.com",
+    "error_message": "Quisquam crustulum pauper denego clamo conculco.",
+    "timestamp": 1692078640729,
+    "user_location_country": "TL",
+    "loading_wait_time_ms": 3578,
+    "error_category": "critical"
+  },
+  {
+    "id": "f8c0e9e7-e10e-47b9-91c6-6a6e20498360",
+    "user_email": "Alfredo.Mueller@hotmail.com",
+    "error_message": "Carmen tremo tametsi creptio.",
+    "timestamp": 1687426094003,
+    "user_location_country": "FR",
+    "loading_wait_time_ms": 1169,
+    "error_category": "low"
+  },
+  {
+    "id": "5ba5abb0-0527-489e-8203-a29993fb5df4",
+    "user_email": "Charles.Boyer21@hotmail.com",
+    "error_message": "Sulum patria abstergo architecto causa depono eius pauci atavus.",
+    "timestamp": 1690090620753,
+    "user_location_country": "LU",
+    "loading_wait_time_ms": 490,
+    "error_category": "low"
+  },
+  {
+    "id": "2343397f-3b76-42a0-a88c-3e7d4871b7e0",
+    "user_email": "Sister9@hotmail.com",
+    "error_message": "Vesper terebro aequus studio coadunatio atque audio.",
+    "timestamp": 1707841112217,
+    "user_location_country": "IN",
+    "loading_wait_time_ms": 1425,
+    "error_category": "critical"
+  },
+  {
+    "id": "46c0c081-032f-4d99-8cf5-b1d686447993",
+    "user_email": "Hester52@gmail.com",
+    "error_message": "Sordeo copiose nisi pauper apud agnosco conturbo.",
+    "timestamp": 1700459612773,
+    "user_location_country": "HM",
+    "loading_wait_time_ms": 2798,
+    "error_category": "high"
+  },
+  {
+    "id": "129d64a4-e0a2-40d1-bce0-136bc0b16430",
+    "user_email": "Viva_Abbott43@yahoo.com",
+    "error_message": "Pectus conservo comes valens demergo amita itaque pax aranea.",
+    "timestamp": 1701087824107,
+    "user_location_country": "TW",
+    "loading_wait_time_ms": 3434,
+    "error_category": "critical"
+  },
+  {
+    "id": "a127d27b-60d7-4fdd-812a-e2f98cd11af2",
+    "user_email": "Walker_Quigley@yahoo.com",
+    "error_message": "Videlicet somnus trepide collum cito tabesco creator.",
+    "timestamp": 1703958039923,
+    "user_location_country": "TG",
+    "loading_wait_time_ms": 879,
+    "error_category": "critical"
+  },
+  {
+    "id": "64162421-8131-4e20-a738-00f706e63b7a",
+    "user_email": "Rubie.Goldner@yahoo.com",
+    "error_message": "Adipisci suffoco rem voluptates censura votum.",
+    "timestamp": 1683395152021,
+    "user_location_country": "GM",
+    "loading_wait_time_ms": 2514,
+    "error_category": "low"
+  },
+  {
+    "id": "60f19ada-dac0-4da9-9a09-f33f27aafc1c",
+    "user_email": "Jaeden.Grimes3@yahoo.com",
+    "error_message": "Ultra tutis at.",
+    "timestamp": 1695410780315,
+    "user_location_country": "KM",
+    "loading_wait_time_ms": 1955,
+    "error_category": "medium"
+  },
+  {
+    "id": "1da5c505-48ec-4ffe-9a8c-ed01f8acac37",
+    "user_email": "Helena8@hotmail.com",
+    "error_message": "Inflammatio cur basium vinculum viridis.",
+    "timestamp": 1689413194281,
+    "user_location_country": "NU",
+    "loading_wait_time_ms": 2643,
+    "error_category": "critical"
+  },
+  {
+    "id": "6ccf9dd7-d04b-46f3-82d9-d66b6ce14917",
+    "user_email": "Violette_Lakin@gmail.com",
+    "error_message": "Vir talis voluntarius cetera territo cupressus temeritas tepesco defendo.",
+    "timestamp": 1694667837376,
+    "user_location_country": "CW",
+    "loading_wait_time_ms": 3648,
+    "error_category": "low"
+  },
+  {
+    "id": "8ef365ce-42f9-40ee-9315-827680d29dfb",
+    "user_email": "Kadin10@yahoo.com",
+    "error_message": "Contabesco perspiciatis nobis delicate repellendus vulgus rem adinventitias.",
+    "timestamp": 1693258714829,
+    "user_location_country": "SI",
+    "loading_wait_time_ms": 1756,
+    "error_category": "critical"
+  },
+  {
+    "id": "dc29c1db-f952-4e77-9e35-5809537c7c4a",
+    "user_email": "Violet_Renner@hotmail.com",
+    "error_message": "Atque audentia vester coepi conforto alius.",
+    "timestamp": 1707117627651,
+    "user_location_country": "BQ",
+    "loading_wait_time_ms": 2813,
+    "error_category": "high"
+  },
+  {
+    "id": "7aaec802-f47a-47b6-93b8-a39ec2396e9a",
+    "user_email": "Dereck.Pouros@gmail.com",
+    "error_message": "Animus caste sortitus vae somniculosus.",
+    "timestamp": 1701326884799,
+    "user_location_country": "NL",
+    "loading_wait_time_ms": 188,
+    "error_category": "low"
   }
-]
-}
+]}
